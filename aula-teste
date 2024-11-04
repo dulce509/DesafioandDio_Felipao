@@ -1,0 +1,14 @@
+//git  init
+//git add .
+
+//depois comitar o teste (tirar uma fotografia do codigo)
+//git commit - m"nome do projeto"
+//adicionar o remode (comunicar remotamente)
+// git push -u  origin main (para mandar o código)
+
+//_______________________________________
+// para atualizar o projeto segue os três comandos abaixo:
+// git add .
+//git commt -m"nome do atualização do projeto"
+// git push -u origin main
+//_____________________________________
